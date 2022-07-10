@@ -4,7 +4,7 @@ This program uses LibCurl to handle the GET request and then outputs the resulti
 
 # Usage
 
-./http-get <url>
+```./http-get <url>```
 Url should be in the format of www.example.com. The https protocol is automatically appended in the program.
 
 If successful, the resulting response will be displayed in the console. 
